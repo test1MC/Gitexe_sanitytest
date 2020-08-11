@@ -10,7 +10,7 @@
       Title="Folder A">
       <TocEntry
         Title="Topic A"
-        Link="/Content/Test/Folder A/Topic A.htm"
+        Link="/Content/Test/Folder A/Topic B.htm"
         MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
     </TocEntry>
   </TocEntry>
